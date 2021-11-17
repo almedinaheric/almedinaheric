@@ -1,7 +1,7 @@
-👋 Hi there, I'm @almedinaheric
-👀 I'm interested in Web Development
-🌱 I’m currently learning  C++, C# and Java Script
-📫 How to reach me: almedina.heric@edu.fit.ba
+- 👋 Hi there, I'm @almedinaheric
+- 👀 I'm interested in Web Development
+- 🌱 I’m currently learning  C++, C# and Java Script
+- 📫 How to reach me: almedina.heric@edu.fit.ba
 <!--
 **almedinaheric/almedinaheric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
