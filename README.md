@@ -11,6 +11,7 @@
 <a target="_blank" href="https://www.instagram.com/almedinaheric/"><img width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 <a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img width="22px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 
+</br>
 
 ### Tools:
 
