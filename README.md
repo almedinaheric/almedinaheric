@@ -1,6 +1,6 @@
 ### Hello World, I'm Almedina 👋
 
-## I'm a second year software engineering student willing to learn new stuff
+## I'm a third year software engineering student willing to learn new stuff
 
 <!---- 👀 I'm interested in Web Development--->
 <!---- 🌱 I’m currently learning C# and Java Script--->
