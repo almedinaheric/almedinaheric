@@ -1,11 +1,12 @@
-## Hello World, I'm Almedina 👋
+### Hello World, I'm Almedina 👋
 
 ## A third year software engineering student willing to learn new stuff
 
-📫 How to reach me: almedina.heric@edu.fit.ba <br>
-<a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+### How to reach me?
+📫 almedina.heric@edu.fit.ba <br>
+<a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
-## Languages and Tools
+### Languages and Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
