@@ -2,12 +2,8 @@
 
 ## A third year software engineering student willing to learn new stuff
 
-<hr>
-
-📫 How to reach me: almedina.heric@edu.fit.ba
-<a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/>
-
-<hr>
+📫 How to reach me: almedina.heric@edu.fit.ba <br>
+<a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
 ## Languages and Tools
 
