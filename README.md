@@ -4,9 +4,12 @@
 
 ### How to reach me?
 📫 almedina.heric@edu.fit.ba <br>
-<a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
-### Languages and Tools
+<a target="_blank" href="https://www.instagram.com/almedinaheric/">"<img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- <a target="_blank" href="https://www.linkedin.com/in/almedina-heric-1344b1216/"><img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> -->
+
+### Languages and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
