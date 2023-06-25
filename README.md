@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">A software engineering student willing to learn new stuff</h3>
+<h4 align="left">A software engineering student willing to learn new stuff</h4>
 
 ###
 
-<h4 align="left">How to reach me:</h4>
+<h2 align="left">How to reach me:</h2>
 
 ###
 
@@ -14,21 +14,21 @@
   <a href="https://www.linkedin.com/in/almedina-heri%C4%87-1344b1216" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:almedinaheric30@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="mailto:almedina.heric@edu.fit.ba" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="mailto:almedinaheric30@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">Languages and tools</h3>
+<h2 align="left">Languages and tools</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
