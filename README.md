@@ -1,7 +1,7 @@
 <h1 align="left">Hello World, I'm Almedina 👋🏼</h1>
 
 ### 👩‍💻 About Me
-- 💼 Working as a **Junior Software Engineer**.
+- 💼 Working as a **Software Engineer**.
 - 🎓 Studying **Software Engineering**.
 - 🚀 Always looking to collaborate on **exciting projects** and learn new things.
 
