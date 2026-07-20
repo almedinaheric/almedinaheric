@@ -2,7 +2,6 @@
 
 ### 👩‍💻 About Me
 - 💼 Working as a **Software Engineer**.
-- 🎓 Studying **Software Engineering**.
 - 🚀 Always looking to collaborate on **exciting projects** and learn new things.
 
 ---
